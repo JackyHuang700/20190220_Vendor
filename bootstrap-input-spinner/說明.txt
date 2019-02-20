@@ -1,0 +1,2 @@
+Github: https://github.com/shaack/bootstrap-input-spinner
+Demo: https://shaack.com/projekte/bootstrap-input-spinner
